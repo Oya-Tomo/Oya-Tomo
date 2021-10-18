@@ -14,7 +14,7 @@
 - HTML/CSS/Javascript
 
 ### framework & library
-- Frask
+- Flask
 - Qt
 - Android Native Developing
 - Flutter
