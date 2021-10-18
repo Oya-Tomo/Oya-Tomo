@@ -1,16 +1,24 @@
-### Hi there 👋
+# Oya-Tomo
+## introduction
+- I`m a NITIC student.
+- I love programming.
+- age : 15
 
-<!--
-**Oya-Tomo/Oya-Tomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## experience
+### language
+- python
+- C++
+- kotlin
+- Dart
+- Javascript/nodejs
+- HTML/CSS/Javascript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### framework & library
+- Frask
+- Qt
+- Android Native Developing
+- Flutter
+- Electron
+- React
+- React Native
+- Web Page
