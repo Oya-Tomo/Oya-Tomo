@@ -37,4 +37,3 @@
 
 - I'm learning Golang to build my original API for chat app.
 - Recently, I'm investigating how to handle byte data to see if I can develop a new DB.
-- Nowadays, I regret a little because I've been working on various frameworks and programming languages little by little.
