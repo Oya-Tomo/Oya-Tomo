@@ -4,8 +4,8 @@
 # Oya-Tomo
 ## introduction
 - I`m a NITIC student.
-- I love programming.
-- age : 15
+- Reinventing the wheel is fun !
+- age : 16
 
 ## experience
 ### language
@@ -18,6 +18,10 @@
 - Dart
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 - JavaScript
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+- rust
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+
 
 ### framework & library
 - Flask & FastAPI (Build original API)
@@ -30,10 +34,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ### framework or language I learning
-- Go & Gin
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+- Rust ( TUI rendering )
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 ### recent state
-
-- I'm learning Golang to build my original API for chat app.
-- Recently, I'm investigating how to handle byte data to see if I can develop a new DB.
+- I`m making the TUI renderer with Rust
