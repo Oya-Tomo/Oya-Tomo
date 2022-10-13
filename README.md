@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=Oya-Tomo&show_icons=true&theme=vue&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Oya-Tomo&show_icons=true&theme=vue&count_private=true)  
 ![used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Oya-Tomo&layout=compact)
 
 # Oya-Tomo
