@@ -1,6 +1,6 @@
 # Oya-Tomo Introduction
 
-<div style="display: flex;">
+<div style="display: inline;">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Oya-Tomo&show_icons=true&theme=vue&count_private=true&line_height=20)
 ![used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Oya-Tomo&theme=vue&line_height=20&layout=compact)
