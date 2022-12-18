@@ -1,42 +1,18 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=Oya-Tomo&show_icons=true&theme=vue&count_private=true)  
-![used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Oya-Tomo&layout=compact)
+# Oya-Tomo Introduction
 
-# Oya-Tomo
-## introduction
-- I`m a NITIC student.
-- Reinventing the wheel is fun !
-- age : 16
+![github stats](https://github-readme-stats.vercel.app/api?username=Oya-Tomo&show_icons=true&theme=vue&count_private=true&line_height=20)
+![used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Oya-Tomo&theme=vue&line_height=20&layout=compact)
 
-## experience
-### language
-- Python
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-- C++
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-- Kotlin
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-- Dart
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-- JavaScript
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-- Rust
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+## tech
 
+[![tech](https://skillicons.dev/icons?i=actix,androidstudio,bash,c,cs,cpp,cmake,codepen,css,dart,discord,bots,electron,fastapi,figma,flask,flutter,git,github,go,gradle,graphql,heroku,html,idea,js,kotlin,linux,md,neovim,nodejs,postgres,powershell,prisma,py,qt,react,redux,rust,sass,sqlite,selenium,svg,tauri,tensorflow,ts,vim,visualstudio,vscode,vue,webpack)](https://skillicons.dev)
 
-### framework & library
-- Flask & FastAPI (Build original API)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-- Flutter (basic & more)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-- Electron with TypeScript and UI written with react.
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-- React with CRA
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+## working, using, learning
 
-### framework or language I learning
-- Rust ( TUI rendering )
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+[![tech](https://skillicons.dev/icons?i=css,git,github,html,js,linux,md,nodejs,postgres,react,redux,rust,sass,ts,vscode)](https://skillicons.dev)
 
-### recent state
-- JetBrains announced fleet, so I tried using it.  It feels like a nice editor.
-- Please make fleet free.
+## status, I'm...
+
+-   learning database table design.
+-   creating a task management application.
+-   learning web security to create secure system.
