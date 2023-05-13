@@ -16,6 +16,5 @@
 
 ## status, I'm...
 
--   learning database table design.
--   creating a task management application.
--   learning web security to create secure system.
+- I like "bocchi the rock" very much !!
+- I'm creating a task management system to manage production of robot parts .
