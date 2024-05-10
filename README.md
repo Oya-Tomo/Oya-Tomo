@@ -16,7 +16,7 @@
 
 - othello-py : othello game using CNN machine learning model
 
-  ![tech](https://skillicons.dev/icons?i=python,tensorflow)
+  ![tech](https://skillicons.dev/icons?i=python,pytorch,tensorflow)
 
 ### packages
 
