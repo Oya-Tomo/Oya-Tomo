@@ -54,16 +54,20 @@
 - wavier-keys : original keyboard firmware witten in rust & keyboard pcb
 - keyboard-firmware-l432kc : keyboard firmware ( target : Nucleo32 L432KC ) that can type "buri".
 
-## tools config & themes
+### tools config & themes
 
 - devtheme-posh : oh-my-posh theme for developers
 - dotfiles : neovim (lazy or packer) & wezterm config
 
-## other
+### other
 
 - business-card-typst : Business card template with Typst
 - sudoku : sudoku resolver
 - bocchi : bocchi the rock command
+
+## topics
+
+![wordcloud](assets/wordclouds.png)
 
 ## status, I'm...
 
