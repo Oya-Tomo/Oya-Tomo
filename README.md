@@ -1,7 +1,8 @@
 # Oya-Tomo Introduction
 
 <div>
-    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oya-Tomo&theme=vue&langs_count=8&layout=compact" />
+  <img style="height: 100pt;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oya-Tomo&theme=vue&langs_count=8&layout=compact" />
+  <img style="height: 100pt; " src="https://github-readme-stats.vercel.app/api?username=Oya-Tomo&show_icons=true" />
 </div>
 
 ## techs
