@@ -11,6 +11,14 @@
 - alpha-rebrew : Othello with AlphaZero algorithm
 
 <div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=48/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width=48/>
+</div>
+
+- lunar-lander-ppo-pt : Lunar Lander RL with PPO (original implementation)
+
+<div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=48/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width=48/>
 </div>
 
