@@ -77,3 +77,5 @@
 
 - I'm focusing on developing the machine learning model in some projects.
 - I want to develop a machine learning model with rust & candle.
+
+![seasons](https://raw.githubusercontent.com/Oya-Tomo/github-readme-seasons-animation/main/assets/seasons.svg)
